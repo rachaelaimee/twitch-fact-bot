@@ -1,21 +1,21 @@
 # 🖤✨ Twitch Fact Bot ✨🖤
 
-**A customizable, feature-rich Twitch chatbot for educational streamers**
+**A customisable, feature-rich Twitch chatbot for educational streamers**
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![TwitchIO](https://img.shields.io/badge/TwitchIO-2.9.1-purple.svg)](https://twitchio.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> A intelligent Twitch bot designed for educational content creators, featuring themed fact categories, smart randomization, and portfolio-quality code architecture.
+> A intelligent Twitch bot designed for educational content creators, featuring themed fact categories, smart randomisation, and portfolio-quality code architecture.
 
 ## 🌟 Features
 
 ### 📚 Core Functionality
 
-- **Smart Fact Distribution**: Advanced randomization that prevents immediate repeats
+- **Smart Fact Distribution**: Advanced randomisation that prevents immediate repeats
 - **Theme-Based Categories**: Spooky/Witchy, Science, History, and Fun facts
 - **Intelligent Cooldowns**: Per-user command limiting to prevent spam
-- **Automatic Posting**: Scheduled fact sharing at customizable intervals
+- **Automatic Posting**: Scheduled fact sharing at customisable intervals
 
 ### 🎮 Interactive Commands
 
@@ -33,7 +33,7 @@
 ### 🔧 Advanced Features
 
 - **Theme-Specific Prefixes**: Each category has unique branding
-- **Configurable Settings**: Easy customization via INI files
+- **Configurable Settings**: Easy customisation via INI files
 - **Extensible Architecture**: JSON-based fact storage for easy updates
 - **Error Handling**: Graceful degradation and user-friendly error messages
 - **Professional Logging**: Comprehensive activity tracking
@@ -82,7 +82,7 @@
    # Edit .env with your credentials
    ```
 
-5. **Customize settings**
+5. **Customise settings**
 
    - Edit `data/config/bot_config.ini` for personalization
    - Modify fact prefixes, intervals, and themes
@@ -156,7 +156,7 @@ Edit the JSON files in `data/facts/`:
 2. Add theme prefix to `bot_config.ini`
 3. Add command in `twitch_bot.py` (optional)
 
-### Personality Customization
+### Personality Customisation
 
 Modify `data/config/bot_config.ini`:
 
@@ -209,7 +209,7 @@ interval_minutes = 60       # Minutes between auto-posts
 default_theme = spooky      # Default fact category
 ```
 
-### Theme Customization
+### Theme Customisation
 
 ```ini
 [POSTING]
@@ -272,7 +272,7 @@ This Twitch Fact Bot represents a portfolio-quality Python application showcasin
 - **Clean Architecture**: Modular, maintainable code structure
 - **Professional Documentation**: Comprehensive README and inline docs
 - **User Experience**: Intuitive commands and helpful error messages
-- **Extensibility**: Easy to customize and expand functionality
+- **Extensibility**: Easy to customise and expand functionality
 - **Production Ready**: Error handling, logging, and configuration management
 
 Perfect for demonstrating software development skills in:
