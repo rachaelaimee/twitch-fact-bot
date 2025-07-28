@@ -1,0 +1,17 @@
+# Core Twitch Bot Dependencies
+twitchio==2.9.1
+asyncio-mqtt==0.16.1
+
+# Scheduling and Timing
+schedule==1.2.0
+python-dotenv==1.0.0
+
+# Data Handling
+configparser
+
+# Optional AI Integration (uncomment when ready)
+# openai==1.3.0
+# anthropic==0.7.0
+
+# Future UI Dependencies (uncomment when ready for GUI)
+# flask==3.0.0 

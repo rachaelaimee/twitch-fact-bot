@@ -1,0 +1,43 @@
+{
+  "available_themes": {
+    "spooky": {
+      "display_name": "Spooky & Witchy",
+      "description": "Perfect for Halloween streams, witchy vibes, and mysterious content",
+      "emoji": "🖤",
+      "enabled": true
+    },
+    "science": {
+      "display_name": "Science & Nature",
+      "description": "Fascinating facts about the natural world and scientific discoveries",
+      "emoji": "🔬",
+      "enabled": true
+    },
+    "history": {
+      "display_name": "History & Ancient Times",
+      "description": "Interesting historical facts and ancient civilizations",
+      "emoji": "🏛️",
+      "enabled": true
+    },
+    "custom": {
+      "display_name": "Your Custom Facts",
+      "description": "Add your own personalized facts here",
+      "emoji": "⭐",
+      "enabled": true
+    }
+  },
+  "theme_aliases": {
+    "witch": "spooky",
+    "witchy": "spooky",
+    "halloween": "spooky",
+    "scary": "spooky",
+    "mystery": "spooky",
+    "facts": "science",
+    "nature": "science",
+    "bio": "science",
+    "past": "history",
+    "ancient": "history",
+    "old": "history",
+    "mine": "custom",
+    "personal": "custom"
+  }
+} 

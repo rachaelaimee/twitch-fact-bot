@@ -1,0 +1,37 @@
+{
+  "theme": "custom",
+  "facts": [
+    "The word 'quiz' was allegedly invented in 1780 by a Dublin theater manager as a bet! 🎭",
+    "Bubble wrap was originally invented as wallpaper! 🫧",
+    "The longest recorded flight of a chicken is 13 seconds 🐔",
+    "A single strand of spaghetti is called a 'spaghetto' 🍝",
+    "The dot over a lowercase 'i' or 'j' is called a tittle! 📝",
+    "Banging your head against a wall burns 150 calories per hour 💀",
+    "The unicorn is Scotland's national animal 🦄",
+    "You can't lick your own elbow (most people just tried this!) 👅",
+    "A crocodile cannot stick its tongue out 🐊",
+    "Peanuts aren't actually nuts - they're legumes! 🥜",
+    "The human nose can detect over 1 trillion different scents 👃",
+    "Goats have rectangular pupils 🐐",
+    "A group of ferrets is called a 'business' 🦫",
+    "The shortest complete sentence in English is 'I am' ✨",
+    "Your foot is the same length as the distance between your elbow and wrist 📏",
+    "Slugs have 4 noses 🐌",
+    "The word 'set' has the most different meanings in English 📚",
+    "A jiffy is an actual unit of time - 1/100th of a second ⏰",
+    "Almonds are a member of the peach family 🍑",
+    "The plastic thing on the end of shoelaces is called an aglet 👟",
+    "Cats can't taste sweetness 🐱",
+    "The fear of long words is called hippopotomonstrosesquippedaliophobia 😰",
+    "A baby octopus is about the size of a flea when it's born 🐙",
+    "The average person spends 6 months of their life waiting for red lights ⛔",
+    "Otters hold hands while sleeping so they don't drift apart 🦦"
+  ],
+  "ai_prompts": [
+    "Generate a quirky and surprising fun fact",
+    "Share an interesting fact about everyday objects or words",
+    "Create a fun fact that would make people say 'really?!'",
+    "Generate a weird but true fact about animals or nature",
+    "Share a fun fact about language or human behavior"
+  ]
+} 

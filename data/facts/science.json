@@ -1,0 +1,42 @@
+{
+  "theme": "science",
+  "facts": [
+    "Honey never spoils - 3000-year-old honey found in Egyptian tombs is still edible! 🍯",
+    "A group of flamingos is called a 'flamboyance' 🦩",
+    "Octopuses have three hearts and blue blood 🐙",
+    "The human brain uses about 20% of the body's total energy ⚡",
+    "A single cloud can weigh more than a million pounds ☁️",
+    "Bananas are radioactive due to their potassium content ☢️",
+    "There are more possible games of chess than atoms in the observable universe ♟️",
+    "Sharks are older than trees - they've existed for 400 million years 🦈",
+    "Your stomach gets an entirely new lining every 3-4 days 🫀",
+    "Sound travels 4 times faster through water than through air 🌊",
+    "Wombat poop is cube-shaped to prevent it from rolling away 💩",
+    "A single teaspoon of neutron star material would weigh 6 billion tons ⭐",
+    "Dolphins have names for each other - unique whistle signatures 🐬",
+    "The Great Wall of China is NOT visible from space with the naked eye 🏯",
+    "Your body produces about 25 million new cells every second 🧬",
+    "Lightning is 5 times hotter than the surface of the Sun ⚡",
+    "A group of pandas is called an 'embarrassment' 🐼",
+    "Butterflies taste with their feet 🦋",
+    "The shortest war in history lasted 38-45 minutes ⚔️",
+    "A shrimp's heart is in its head 🦐",
+    "Polar bears have black skin under their white fur 🐻‍❄️",
+    "You can't hum while holding your nose closed 👃",
+    "A group of pugs is called a 'grumble' 🐕",
+    "The human eye can distinguish about 10 million colors 👁️",
+    "Cows have best friends and get stressed when separated 🐄",
+    "A bolt of lightning is about 5 times hotter than the sun ⚡",
+    "Penguins can jump 6 feet out of water 🐧",
+    "The moon is moving away from Earth at 3.8cm per year 🌙",
+    "A group of owls is called a 'parliament' 🦉",
+    "Elephants are one of the few animals that can recognize themselves in mirrors 🐘"
+  ],
+  "ai_prompts": [
+    "Share a fascinating science fact about space or astronomy",
+    "Generate an amazing fact about animals or biology",
+    "Tell me something incredible about physics or chemistry",
+    "Share a mind-blowing fact about the human body",
+    "Generate a fact about technology or scientific discoveries"
+  ]
+} 
