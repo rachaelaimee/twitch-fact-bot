@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The **Twitch Fact Bot** is a production-ready Python application that demonstrates advanced software development skills through the creation of an intelligent, customizable chatbot for educational Twitch streamers.
+The **Twitch Fact Bot** is a production-ready Python application that demonstrates advanced software development skills through the creation of an intelligent, customisable chatbot for educational Twitch streamers.
 
 ## 🔧 Technical Skills Demonstrated
 
@@ -33,13 +33,13 @@ The **Twitch Fact Bot** is a production-ready Python application that demonstrat
 - **JSON Database Design**: Human-readable, version-controllable fact storage
 - **Smart Caching**: Efficient in-memory fact management
 - **Data Validation**: Robust JSON parsing with error handling
-- **Content Organization**: Hierarchical theme-based categorization
+- **Content Organization**: Hierarchical theme-based categorisation
 
 ### User Experience Design
 
 - **Intuitive Commands**: Natural language command structure (`!factspooky`)
 - **Helpful Error Messages**: User-friendly feedback for invalid operations
-- **Customizable Behavior**: Extensive configuration options for personalization
+- **Customisable Behavior**: Extensive configuration options for personalisation
 - **Accessibility**: Clear documentation and setup processes
 
 ### DevOps & Production Readiness
@@ -51,7 +51,7 @@ The **Twitch Fact Bot** is a production-ready Python application that demonstrat
 
 ## 🎨 Creative Problem Solving
 
-### Smart Randomization Algorithm
+### Smart Randomisation Algorithm
 
 Implemented an intelligent fact selection system that:
 
@@ -60,7 +60,7 @@ Implemented an intelligent fact selection system that:
 - Gracefully handles edge cases (limited fact pools)
 - Balances randomness with user experience
 
-### Theme-Specific Customization
+### Theme-Specific Customisation
 
 Designed a flexible theming system allowing:
 
@@ -91,7 +91,7 @@ Built robust chat processing featuring:
 
 - **115+ Facts**: Curated across 4 themed categories
 - **8 Commands**: Full-featured command suite
-- **Advanced Config**: 15+ customization options
+- **Advanced Config**: 15+ customisation options
 - **Professional UX**: Error messages, help text, validation
 
 ### Performance Characteristics
@@ -168,7 +168,7 @@ This project showcases proficiency in:
 - **TwitchIO**: Real-time chat integration
 - **asyncio**: Concurrent programming
 - **configparser**: Configuration management
-- **JSON**: Data serialization and storage
+- **JSON**: Data serialisation and storage
 
 ### Software Engineering
 
